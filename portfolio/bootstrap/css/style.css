@@ -9,3 +9,10 @@ body {
 .text-thin {
 	font-weight:100;
 }
+.text-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
